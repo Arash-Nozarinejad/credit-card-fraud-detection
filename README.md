@@ -9,3 +9,15 @@ While AI tools—especially large language models—have helped us enormously, o
 Among the many projects in data science and machine learning, credit card fraud detection is one of the most practical ways to sharpen your skills and tackle real-world challenges.
 
 In this repository, I’ll follow the same steps I use in my day-to-day work: reinforcing essential techniques, learning new ones, and showing readers how to approach a mission-critical task. I’ll update this README as the project evolves, documenting each checklist item and milestone along the way.
+
+## Project Outline
+
+1. Problem Definition & Business Understanding
+
+Link: [`step_1_problem_definition_and_business_understanding.md`](./src/step_1_problem_definition_and_business_understanding.md)
+
+[Todo: Recap here for the readers]
+
+2.
+
+
