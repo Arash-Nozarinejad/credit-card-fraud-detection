@@ -12,12 +12,16 @@ In this repository, I’ll follow the same steps I use in my day-to-day work: re
 
 ## Project Outline
 
-1. Problem Definition & Business Understanding
+Step 1 - Problem Definition & Business Understanding
 
 Link: [`step_1_problem_definition_and_business_understanding.md`](./src/step_1_problem_definition_and_business_understanding.md)
 
 [Todo: Recap here for the readers]
 
-2.
+Step 2 - Goal Setting & Success Metrics
+
+Link: [`step_2_goal_setting_and_success_metrics.md`](./src/step_2_goal_setting_and_success_metrics.md) for the detailed notebook/analysis that produced these targets and baselines.
+
+[Todo: Recap here for the readers]
 
 
