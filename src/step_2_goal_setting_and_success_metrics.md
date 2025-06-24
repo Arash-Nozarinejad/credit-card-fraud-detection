@@ -53,8 +53,3 @@ Even though this repo won’t deploy a live service, a real project would:
 * **Compute P/R, latency, drift** daily and display on a Grafana / Superset dashboard.  
 * **Trigger alerts** if primary metric falls below SLA for two consecutive days.
 
----
-
-## Deliverable
-
-See [`step_2_goal_setting_and_success_metrics.md`](./src/step_2_goal_setting_and_success_metrics.md) for the detailed notebook/analysis that produced these targets and baselines.
