@@ -20,7 +20,13 @@ Link: [`step_1_problem_definition_and_business_understanding.md`](./src/step_1_p
 
 Step 2 - Goal Setting & Success Metrics
 
-Link: [`step_2_goal_setting_and_success_metrics.md`](./src/step_2_goal_setting_and_success_metrics.md) for the detailed notebook/analysis that produced these targets and baselines.
+Link: [`step_2_goal_setting_and_success_metrics.md`](./src/step_2_goal_setting_and_success_metrics.md)
+
+[Todo: Recap here for the readers]
+
+Step 3 - Technical Assumptions & Planning
+
+Link: [`step_3_technical_assumptions_and_planning`](./src/step_3_technical_assumptions_and_planning.md)
 
 [Todo: Recap here for the readers]
 
