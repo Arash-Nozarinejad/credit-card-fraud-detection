@@ -30,4 +30,11 @@ Link: [`step_3_technical_assumptions_and_planning`](./src/step_3_technical_assum
 
 [Todo: Recap here for the readers]
 
+Step 4 - Data Acquisition
+
+Link: [`step_4_data_acquisition`](./src/step_4_data_acquisition.ipynb)
+
+[Todo: Recap here for the readers]
+
+
 
